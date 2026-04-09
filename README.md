@@ -17,9 +17,11 @@ The following services are deployed using Docker Compose:
 - Basic container networking
 - Service health checks
 - Linux server setup (Ubuntu)
-- Secure remote access
 - System Monitoring
 - Working ingest to deployment media workflow
+- Network-wide DNS filtering (Pi-hole)
+- Zero-trust remote access mesh VPN (TailScale)
+
 This reflects the same troubleshooting and container workflows I have used while supporting hyperscale compute clusters.
 
 ## Planned Additions
